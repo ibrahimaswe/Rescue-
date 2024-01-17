@@ -1,7 +1,7 @@
 # 911 Link HackGTX
 ## Teamates: Esmeralda Rangle, Subhan Shakoor, Hamza Sha
 
-![PDF Page 1](./images/page_1.png)
+![PDF Page 1](./Images/page_1.png)
 ![PDF Page 2](./images/page_2.png)
 ![PDF Page 3](./images/page_3.png)
 ![PDF Page 4](./images/page_4.png)

@@ -1,5 +1,5 @@
 # 911 Link HackGTX
-## Team: Esmeralda Rangle, Ibrahima Gueye, Subhan Shakoor, Hamza Sha
+## Team: Esmeralda Rangel, Ibrahima Gueye, Subhan Shakoor, Hamza Sha
 
 ![PDF Page 1](./Images/page_1.png)
 ![PDF Page 2](./Images/page_2.png)
